@@ -1,0 +1,27 @@
+{
+    "usuarios": [
+        {
+        "id": 1,
+        "name": "Yahir Garcia ", 
+        "years": 20,
+        "live": true
+        },
+        {
+            "id": 2,
+            "name": "Juanito Alcachofas", 
+            "years": 26,
+            "live": false
+        }
+    ]
+
+    "tarea": [
+        {
+        "id": 1
+        
+        },
+        {
+            "id": 2
+
+        }
+    ]
+}
